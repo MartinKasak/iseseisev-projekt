@@ -7,3 +7,5 @@ suurus teistega võrreldes, see võimaldab kasutajal vajaminevaid muudatusi pare
 
 
 ![Screenshot](https://github.com/MartinKasak/iseseisev-projekt/blob/master/Pilt%20rakendusest.png)
+
+http://greeny.cs.tlu.ee/~martkasa/EESRAKENDUSED/iseseisev-projekt/app.html
