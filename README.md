@@ -6,4 +6,4 @@ Rakendus Eelarve jälgimise ja koostamise kohta. Rakendus võimaldab lisada kasu
 suurus teistega võrreldes, see võimaldab kasutajal vajaminevaid muudatusi paremini teha.  
 
 
-![Screenshot](Pilt rakendusest.png)
+![Screenshot](https://github.com/MartinKasak/iseseisev-projekt/blob/master/Pilt%20rakendusest.png)
